@@ -1,0 +1,14 @@
+body {
+    background-color: #e9c3c3;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.logo h2 {
+    color: rgb(15, 15, 15);
+
+}
+
+.domaimg {
+    height: 400px;
+    width: 400px;
+}
